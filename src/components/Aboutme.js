@@ -26,7 +26,6 @@ class Aboutme extends Component {
             {/* <hr /> */}
             <div className='contact-list'>
               <h2>Habilidades Técnicas</h2>
-
               <Cell col={12}>
                 <img src='https://img2.freepng.es/20181209/yvf/kisspng-javascript-angularjs-node-js-computer-icons-clip-a-clipart-js-5c0d82819a4963.228658921544389249632.jpg'
                   className='icon-img' title='JavaScript'
@@ -64,14 +63,12 @@ class Aboutme extends Component {
                 <Cell col={6}>
                   <li align='left'>Adaptabilidad</li>
                   <li align='left'>Autoaprendizaje</li>
-                  <li align='left'>Análitica</li>
-                  <li align='left'>Metódica</li>
+                  <li align='left'>Análisis</li>
                 </Cell>
                 <Cell col={6}>
                   <li align='left'>Trabajo en equipo</li>
                   <li align='left'>Mejora Continua</li>
-                  <li align='left'>Creativa</li>
-                  <li align='left'>Adaptabilidad</li>
+                  <li align='left'>Creatividad</li>
                 </Cell>
               </Grid>
             </div>
